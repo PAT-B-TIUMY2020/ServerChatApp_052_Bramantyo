@@ -1,0 +1,11 @@
+F:\Visual Studio 2017\Projects\ServerChatApp_20180140052_Bramantyo Adi Yoga\ServerChatApp_20180140052_Bramantyo Adi Yoga\bin\Debug\ServerChatApp_20180140052_Bramantyo Adi Yoga.exe.config
+F:\Visual Studio 2017\Projects\ServerChatApp_20180140052_Bramantyo Adi Yoga\ServerChatApp_20180140052_Bramantyo Adi Yoga\bin\Debug\ServerChatApp_20180140052_Bramantyo Adi Yoga.exe
+F:\Visual Studio 2017\Projects\ServerChatApp_20180140052_Bramantyo Adi Yoga\ServerChatApp_20180140052_Bramantyo Adi Yoga\bin\Debug\ServerChatApp_20180140052_Bramantyo Adi Yoga.pdb
+F:\Visual Studio 2017\Projects\ServerChatApp_20180140052_Bramantyo Adi Yoga\ServerChatApp_20180140052_Bramantyo Adi Yoga\bin\Debug\WCFService_2Way_20180140052.dll
+F:\Visual Studio 2017\Projects\ServerChatApp_20180140052_Bramantyo Adi Yoga\ServerChatApp_20180140052_Bramantyo Adi Yoga\bin\Debug\WCFService_2Way_20180140052.pdb
+F:\Visual Studio 2017\Projects\ServerChatApp_20180140052_Bramantyo Adi Yoga\ServerChatApp_20180140052_Bramantyo Adi Yoga\bin\Debug\WCFService_2Way_20180140052.dll.config
+F:\Visual Studio 2017\Projects\ServerChatApp_20180140052_Bramantyo Adi Yoga\ServerChatApp_20180140052_Bramantyo Adi Yoga\obj\Debug\ServerChatApp_20180140052_Bramantyo Adi Yoga.csprojAssemblyReference.cache
+F:\Visual Studio 2017\Projects\ServerChatApp_20180140052_Bramantyo Adi Yoga\ServerChatApp_20180140052_Bramantyo Adi Yoga\obj\Debug\ServerChatApp_20180140052_Bramantyo Adi Yoga.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\Projects\ServerChatApp_20180140052_Bramantyo Adi Yoga\ServerChatApp_20180140052_Bramantyo Adi Yoga\obj\Debug\ServerChatApp_20180140052_Bramantyo Adi Yoga.csproj.CopyComplete
+F:\Visual Studio 2017\Projects\ServerChatApp_20180140052_Bramantyo Adi Yoga\ServerChatApp_20180140052_Bramantyo Adi Yoga\obj\Debug\ServerChatApp_20180140052_Bramantyo Adi Yoga.exe
+F:\Visual Studio 2017\Projects\ServerChatApp_20180140052_Bramantyo Adi Yoga\ServerChatApp_20180140052_Bramantyo Adi Yoga\obj\Debug\ServerChatApp_20180140052_Bramantyo Adi Yoga.pdb
